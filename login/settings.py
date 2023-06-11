@@ -112,7 +112,7 @@ TIME_ZONE = "UTC"
 USE_I18N = True
 
 USE_TZ = True
-CSRF_TRUSTED_ORIGINS = ['https://django-login-production-2a7d.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://django-login-production-2a7d.up.railway.app']
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
